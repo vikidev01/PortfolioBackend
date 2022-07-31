@@ -11,7 +11,6 @@ import com.victoriaportfolio.vg.Repository.RExperiencia;
 import java.util.List;
 import java.util.Optional;
 import javax.transaction.Transactional;
-import static jdk.nashorn.internal.runtime.Debug.id;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
